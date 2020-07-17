@@ -1,9 +1,11 @@
 Write the honor pledge. In addition, write a brief paragraph going over one thing you learned from the tutorial, and one thing you wish was covered
 
 Honor Pledge:
-
+On my honor as a student, I completed the Unity tutorials.
+Ryan Kann
 
 Something you learned from the tutorial:
-
+I didn't really understand what instantiation was, but after going through the tutorials, it makes a lot of sense. It's just a template for an object that you can copy over and over
 
 Something you want to know not covered in the tutorial:
+I'm really interested in multiplayer games, and I wish there was something there  about using databases or servers.
